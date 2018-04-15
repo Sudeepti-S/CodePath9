@@ -9,7 +9,10 @@ Time spent: **  ** hours spent in total
 
 Which Honeypot(s) you deployed:
 
-I deployed Dionaea over HTTP("Ubuntu Dionaea") - a honeypot used to trap malware samples. 
+I deployed Dionaea over HTTP("Ubuntu Dionaea") - a honeypot used to trap malware samples. Please see the attached images. 
+
+<img src='2.png'/>
+<img src='1.png'/>
 
 Any issues you encountered:
 
