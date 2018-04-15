@@ -1,7 +1,7 @@
 
 # Project 9 - Honeypots 
 
-Time spent: **  ** hours spent in total
+Time spent: ** 5 ** hours spent in total
 
 > Objective: Setup a honeypot and intercept some attempted attacks in the wild.
 
@@ -19,7 +19,7 @@ The instructions were clear and straightforward, however I still ran into a few 
 
 A summary of the data collected: number of attacks, number of malware samples, etc:
 
-Number of Attacks : 988
+Number of Attacks :  1006
 
  Top 3 Attacker IPs: 
  35.193.140.16 (986 attacks)
@@ -27,6 +27,7 @@ Number of Attacks : 988
  177.188.249.244 (1 attacks)
  
  Please see the attached images for the attacks report - summary report of all the attacks. 
+ 
 <img src='Screen Shot 2018-04-15 at 3.34.02 PM.png'/>
 <img src='Screen Shot 2018-04-15 at 3.33.47 PM.png'/>
 
