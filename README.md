@@ -31,7 +31,7 @@ Number of Attacks :  1006
 <img src='Screen Shot 2018-04-15 at 3.34.02 PM.png'/>
 <img src='Screen Shot 2018-04-15 at 3.33.47 PM.png'/>
 
-GIF Walkthrough: ![alt text]()
+GIF Walkthrough: ![alt text](https://github.com/Sudeepti-S/CodePath9/blob/master/codepath9.gif)
 Any unresolved questions raised by the data collected:
 
 I think it would be interesting to observe the data collected as the the number of days since the original date of deployment increased. I noticed there is nothing below the "Top 5 Attacks Signatures" so I would be interested in finding out more information to understand how to identify an attacker. 
