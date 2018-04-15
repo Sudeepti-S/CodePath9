@@ -3,15 +3,18 @@
 
 Time spent: **  ** hours spent in total
 
-> Objective:Setup a honeypot and intercept some attempted attacks in the wild.
+> Objective: Setup a honeypot and intercept some attempted attacks in the wild.
 
 > Include the following details:
 
-Which Honeypot(s) you deployed
+Which Honeypot(s) you deployed:
 
 Any issues you encountered:
 
 A summary of the data collected: number of attacks, number of malware samples, etc:
+Number of Attacks : 
+Number of Malware Samples: 
+
 
 Any unresolved questions raised by the data collected:
 
