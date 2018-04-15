@@ -34,5 +34,7 @@ Any unresolved questions raised by the data collected:
 
 I think it would be interesting to observe the data collected as the the number of days since the original date of deployment increased. 
 
-Additionally, include a json export of the data you collected in the repo. Please see below. 
+Additionally, include a json export of the data you collected in the repo. Please see below for the file. 
+
+
 
