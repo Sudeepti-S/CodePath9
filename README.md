@@ -13,7 +13,7 @@ I deploy Dionaea over HTTP("Ubuntu Dionaea") - a honeypot used to trap malware s
 
 Any issues you encountered:
 
-I faced issues when 
+I was unable to access the MHN admin console in my browser during milestone 4. 
 
 A summary of the data collected: number of attacks, number of malware samples, etc:
 Number of Attacks : 
