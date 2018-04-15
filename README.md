@@ -9,10 +9,8 @@ Time spent: **  ** hours spent in total
 
 Which Honeypot(s) you deployed:
 
-I deployed Dionaea over HTTP("Ubuntu Dionaea") - a honeypot used to trap malware samples. Please see the attached images. 
+I deployed Dionaea over HTTP("Ubuntu Dionaea") - a honeypot used to trap malware samples. 
 
-<img src='2.png'/>
-<img src='1.png'/>
 
 Any issues you encountered:
 
@@ -21,13 +19,16 @@ The instructions were clear and straightforward, however I still ran into a few 
 
 A summary of the data collected: number of attacks, number of malware samples, etc:
 
-Number of Attacks : 
+Number of Attacks : 988
 
-Number of Malware Samples: 
-
-Top Destination Ports : 
-
-Top 5 Protocols : 
+ Top 3 Attacker IPs: 
+ 35.193.140.16 (986 attacks)
+ 77.72.82.16 (1 attacks)
+ 177.188.249.244 (1 attacks)
+ 
+ Please see the attached images for the attacks report - summary report of all the attacks. 
+<img src='2.png'/>
+<img src='1.png'/>
 
 
 Any unresolved questions raised by the data collected:
