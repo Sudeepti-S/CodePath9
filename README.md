@@ -9,7 +9,11 @@ Time spent: **  ** hours spent in total
 
 Which Honeypot(s) you deployed:
 
+I deploy Dionaea over HTTP("Ubuntu Dionaea") - a honeypot used to trap malware samples. 
+
 Any issues you encountered:
+
+I faced issues when 
 
 A summary of the data collected: number of attacks, number of malware samples, etc:
 Number of Attacks : 
@@ -17,6 +21,7 @@ Number of Malware Samples:
 
 
 Any unresolved questions raised by the data collected:
+
 
 Additionally, include a json export of the data you collected in the repo. 
 
