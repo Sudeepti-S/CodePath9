@@ -19,8 +19,11 @@ The instructions were clear and straightforward, however I still ran into a few 
 A summary of the data collected: number of attacks, number of malware samples, etc:
 
 Number of Attacks : 
+
 Number of Malware Samples: 
+
 Top Destination Ports : 
+
 Top 5 Protocols : 
 
 
