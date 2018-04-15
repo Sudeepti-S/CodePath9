@@ -34,7 +34,7 @@ Number of Attacks :  1006
 
 Any unresolved questions raised by the data collected:
 
-I think it would be interesting to observe the data collected as the the number of days since the original date of deployment increased. 
+I think it would be interesting to observe the data collected as the the number of days since the original date of deployment increased. I noticed there is nothing below the "Top 5 Attacks Signatures" so I would be interested in finding out more information to understand how to identify an attacker. 
 
 Additionally, include a json export of the data you collected in the repo. Please see below for the file. 
 
