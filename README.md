@@ -36,5 +36,4 @@ I think it would be interesting to observe the data collected as the the number 
 
 Additionally, include a json export of the data you collected in the repo. Please see below for the file. 
 
-
-
+Session.json : ![alt text]()
